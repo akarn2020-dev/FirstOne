@@ -10,7 +10,7 @@ The goal of this assignment is to:
 
 ## 🧠 What I Learned
 
-- How to structure an HTML document using `<p>`, ` <h1>`, ` <br>`, '<hr>', `<hr>` and `<b>`
+- How to structure an HTML document using `<p>`, ` <h1>`, ` <br>`, `<hr>` and `<b>`
 - What is defintion of List in Html
 
 ## 📁 Files Included
