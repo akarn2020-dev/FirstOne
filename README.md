@@ -1,27 +1,25 @@
 # 🌐 Web Design Assignment – HTML Basics
 
-Welcome to my first web design assignment! This project was assigned by the **Web Designing Department** as part of our foundational training in front-end development.
+Welcome to my first web design assignment! This project was assigned by the **ABES Engineering College** as part of our foundational training in front-end development.
 
 ## 📄 Assignment Overview
 
 The goal of this assignment is to:
-- Create a basic HTML page using semantic tags
-- Demonstrate understanding of structure, formatting, and layout
-- Apply best practices for clean and readable markup
+- Create a basic HTML page using Basic HTML tags
+
 
 ## 🧠 What I Learned
 
-- How to structure an HTML document using `<!DOCTYPE html>`, `<html>`, `<head>`, and `<body>`
-- The use of headings (`<h1>` to `<h6>`), paragraphs, lists, and links
-- Embedding images and organizing content visually
+- How to structure an HTML document using `<p>`, ` <h1>`, ` <br>`, '<hr>'  and `<b>`
+
 
 ## 📁 Files Included
 
-- `My_First_HTML_PAGE.html` – The main HTML file showcasing the assignment
+- `Assignment1.html` – The main HTML file I created.
 
 ## 🏫 Department Note
 
-This assignment was provided by the **Web Designing Department** to help students build a strong foundation in HTML and prepare for more advanced topics like CSS, JavaScript, and responsive design.
+This assignment was provided by the **Web Designing Department** to help students to start building a strong foundation in HTML which is steppping stone to learn Web designing front end.
 
 ---
 
