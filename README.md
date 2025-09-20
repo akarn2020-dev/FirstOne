@@ -10,21 +10,20 @@ The goal of this assignment is to:
 
 ## 🧠 What I Learned
 
-- How to structure an HTML document using `<p>`, ` <h1>`, ` <br>`, '<hr>'  and `<b>`
-
+- How to structure an HTML document using `<p>`, ` <h1>`, ` <br>`, '<hr>', `<hr>` and `<b>`
+- What is defintion of List in Html
 
 ## 📁 Files Included
 
-- `Assignment1.html` – The main HTML file I created.
+- `Assignment.html` – The main HTML file I created, in which assignment was there.
 
 ## 🏫 Department Note
 
-This assignment was provided by the **Web Designing Department** to help students to start building a strong foundation in HTML which is steppping stone to learn Web designing front end.
+
+This assignment was provided by the **ABES Engineering College** as part of the subject **Web Designing Workshop 1**, under the guidance of **Ms. Monica**, to help students start building a strong foundation in HTML—a stepping stone to learning front-end web design.
 
 ---
 
-Feel free to explore the code and suggest improvements. This is just the beginning of my journey into web development!
-COLLEGE: ABES ENGINEERING COLLEGE
 
 # Author
 <br>
