@@ -32,7 +32,6 @@ NAME: Ayush Karn
 <br>
 BRANCH: BTECH CSE-DS 
 <br>
-<br>
 Section: DS01 
 <br>
 COLLEGE: ABES ENGINEERING COLLEGE 
