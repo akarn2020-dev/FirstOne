@@ -6,7 +6,7 @@ Welcome to my first web design assignment! This project was assigned by the **AB
 
 The goal of this assignment is to:
 - Create a basic HTML page using Basic HTML tags
-- Defintion of List in Html
+- Defintion of List in HTML
 
 
 ## 🧠 What I Learned
