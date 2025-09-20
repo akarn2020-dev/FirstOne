@@ -6,6 +6,7 @@ Welcome to my first web design assignment! This project was assigned by the **AB
 
 The goal of this assignment is to:
 - Create a basic HTML page using Basic HTML tags
+- Defintion of List in Html
 
 
 ## 🧠 What I Learned
@@ -20,7 +21,7 @@ The goal of this assignment is to:
 ## 🏫 Department Note
 
 
-This assignment was provided by the **ABES Engineering College** as part of the subject **Web Designing Workshop 1**, under the guidance of **Ms. Monica**, to help students start building a strong foundation in HTML—a stepping stone to learning front-end web design.
+This assignment was provided by the **ABES Engineering College** as part of the subject **Web Designing Workshop 1**, under the guidance of **Ms. Monica**, to help students start learning basic tags in html which in turn helps us all building a strong foundation in HTML—a stepping stone to learning front-end web design.
 
 ---
 
