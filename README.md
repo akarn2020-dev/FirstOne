@@ -30,7 +30,7 @@ This assignment was provided by the **ABES Engineering College** as part of the 
 <br>
 NAME: Ayush Karn
 <br>
-BRANCH: BTECH CSE DS 
+BRANCH: BTECH CSE-DS 
 <br>
 <br>
 Section: DS01 
