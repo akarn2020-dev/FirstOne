@@ -1,6 +1,6 @@
 # 🌐 Web Design Assignment – HTML Basics
 
-Welcome to my first web design assignment! This project was assigned by the **ABES Engineering College** as part of our foundational training in front-end development.
+Welcome to my first web design assignment! This project was assigned by the **ABES Engineering College** as part of our foundational training in front-end development using HTML(Hyper Text Markup Language).
 
 ## 📄 Assignment Overview
 
