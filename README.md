@@ -34,4 +34,8 @@ BRANCH: BTECH CSE-DS
 <br>
 Section: DS01 
 <br>
+Subject: Web Designing Workshop I
+<br>
+Subject Code: 25VA151
+<br>
 COLLEGE: ABES ENGINEERING COLLEGE 
